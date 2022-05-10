@@ -1,0 +1,18 @@
+.card-action {
+  position: absolute;
+  color: rgba(173, 173, 173, 0.8);
+
+  &:hover {
+    color: rgba(173, 173, 173, 1);
+  }
+}
+
+.card-destroy {
+  top: 8px;
+  right: 8px;
+}
+
+.card-edit {
+  bottom: 8px;
+  right: 8px;
+}
